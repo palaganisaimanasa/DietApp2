@@ -15,9 +15,14 @@ h1 {
     padding-bottom: 45px;
     background-color: antiquewhite;
     width: 500px;
-    border-image: url(../);
+   /* border-image: url(../);*/
 }
 
 input[type=text],[type=password] {
     border-radius: 50px;
+}
+
+body {
+    background-image: url(../IMAGES/interior.jpg);
+    background-size: cover;
 }

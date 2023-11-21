@@ -1,0 +1,23 @@
+/* applying styles */
+
+h1 {
+    text-decoration: underline;
+    background-color: rgb(206, 231, 240);
+    width: 500px;
+    color: blue;
+}
+
+.details {
+    border: 10px ridge;
+    border-color: red;
+    border-radius: 20px;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    background-color: antiquewhite;
+    width: 500px;
+    border-image: url(../);
+}
+
+input[type=text],[type=password] {
+    border-radius: 50px;
+}
